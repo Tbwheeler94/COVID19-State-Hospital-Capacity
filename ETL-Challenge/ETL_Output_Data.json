@@ -1,0 +1,937 @@
+[{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bae"
+  },
+  "State": "AK",
+  "Total Hospital Beds": 1583,
+  "Total ICU Beds": 130,
+  "Available Hospital Beds": 533,
+  "Available ICU Beds": 55,
+  "Adult Population": 552319,
+  "Positive": 119,
+  "Negative": 3594,
+  "Total Test Results": 3713,
+  "Date Modified": "2020-03-30 23:00:00",
+  "Hospitalized Infections": 8.33,
+  "Hospitalized Infections vs Hospital Beds": "1.56%",
+  "Hospitalized Infections vs ICU Beds": "15.15%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037baf"
+  },
+  "State": "AL",
+  "Total Hospital Beds": 13959,
+  "Total ICU Beds": 1870,
+  "Available Hospital Beds": 4994,
+  "Available ICU Beds": 606,
+  "Adult Population": 3748089,
+  "Positive": 947,
+  "Negative": 5694,
+  "Total Test Results": 6641,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 66.29,
+  "Hospitalized Infections vs Hospital Beds": "1.33%",
+  "Hospitalized Infections vs ICU Beds": "10.94%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb0"
+  },
+  "State": "AR",
+  "Total Hospital Beds": 8428,
+  "Total ICU Beds": 856,
+  "Available Hospital Beds": 4069,
+  "Available ICU Beds": 362,
+  "Adult Population": 2272226,
+  "Positive": 508,
+  "Negative": 5520,
+  "Total Test Results": 6028,
+  "Date Modified": "2020-03-31 00:17:00",
+  "Hospitalized Infections": 35.56,
+  "Hospitalized Infections vs Hospital Beds": "0.87%",
+  "Hospitalized Infections vs ICU Beds": "9.82%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb1"
+  },
+  "State": "AZ",
+  "Total Hospital Beds": 12868,
+  "Total ICU Beds": 1742,
+  "Available Hospital Beds": 4938,
+  "Available ICU Beds": 814,
+  "Adult Population": 5187520,
+  "Positive": 1157,
+  "Negative": 15602,
+  "Total Test Results": 16759,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 80.99000000000001,
+  "Hospitalized Infections vs Hospital Beds": "1.64%",
+  "Hospitalized Infections vs ICU Beds": "9.95%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb2"
+  },
+  "State": "CA",
+  "Total Hospital Beds": 68554,
+  "Total ICU Beds": 8131,
+  "Available Hospital Beds": 22831,
+  "Available ICU Beds": 3381,
+  "Adult Population": 29868127,
+  "Positive": 7398,
+  "Negative": 21488,
+  "Total Test Results": 28886,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 517.86,
+  "Hospitalized Infections vs Hospital Beds": "2.27%",
+  "Hospitalized Infections vs ICU Beds": "15.32%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb3"
+  },
+  "State": "CO",
+  "Total Hospital Beds": 9620,
+  "Total ICU Beds": 1264,
+  "Available Hospital Beds": 4033,
+  "Available ICU Beds": 500,
+  "Adult Population": 4185186,
+  "Positive": 2627,
+  "Negative": 12737,
+  "Total Test Results": 15364,
+  "Date Modified": "2020-03-30 22:00:00",
+  "Hospitalized Infections": 183.89000000000001,
+  "Hospitalized Infections vs Hospital Beds": "4.56%",
+  "Hospitalized Infections vs ICU Beds": "36.78%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb4"
+  },
+  "State": "CT",
+  "Total Hospital Beds": 6894,
+  "Total ICU Beds": 731,
+  "Available Hospital Beds": 1643,
+  "Available ICU Beds": 285,
+  "Adult Population": 2831746,
+  "Positive": 2571,
+  "Negative": 12029,
+  "Total Test Results": 14600,
+  "Date Modified": "2020-03-30 19:30:00",
+  "Hospitalized Infections": 179.97000000000003,
+  "Hospitalized Infections vs Hospital Beds": "10.95%",
+  "Hospitalized Infections vs ICU Beds": "63.15%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb5"
+  },
+  "State": "DC",
+  "Total Hospital Beds": 2405,
+  "Total ICU Beds": 401,
+  "Available Hospital Beds": 671,
+  "Available ICU Beds": 159,
+  "Adult Population": 554333,
+  "Positive": 495,
+  "Negative": 3262,
+  "Total Test Results": 3757,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 34.650000000000006,
+  "Hospitalized Infections vs Hospital Beds": "5.16%",
+  "Hospitalized Infections vs ICU Beds": "21.79%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb6"
+  },
+  "State": "DE",
+  "Total Hospital Beds": 1864,
+  "Total ICU Beds": 249,
+  "Available Hospital Beds": 516,
+  "Available ICU Beds": 63,
+  "Adult Population": 739679,
+  "Positive": 264,
+  "Negative": 2216,
+  "Total Test Results": 2480,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 18.48,
+  "Hospitalized Infections vs Hospital Beds": "3.58%",
+  "Hospitalized Infections vs ICU Beds": "29.33%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb7"
+  },
+  "State": "FL",
+  "Total Hospital Beds": 51190,
+  "Total ICU Beds": 6226,
+  "Available Hospital Beds": 17651,
+  "Available ICU Beds": 2044,
+  "Adult Population": 16166865,
+  "Positive": 5704,
+  "Negative": 49796,
+  "Total Test Results": 55500,
+  "Date Modified": "2020-03-30 22:30:00",
+  "Hospitalized Infections": 399.28000000000003,
+  "Hospitalized Infections vs Hospital Beds": "2.26%",
+  "Hospitalized Infections vs ICU Beds": "19.53%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb8"
+  },
+  "State": "GA",
+  "Total Hospital Beds": 23831,
+  "Total ICU Beds": 2703,
+  "Available Hospital Beds": 7210,
+  "Available ICU Beds": 752,
+  "Adult Population": 7702432,
+  "Positive": 3032,
+  "Negative": 10425,
+  "Total Test Results": 13457,
+  "Date Modified": "2020-03-30 23:07:00",
+  "Hospitalized Infections": 212.24,
+  "Hospitalized Infections vs Hospital Beds": "2.94%",
+  "Hospitalized Infections vs ICU Beds": "28.22%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bb9"
+  },
+  "State": "HI",
+  "Total Hospital Beds": 2623,
+  "Total ICU Beds": 219,
+  "Available Hospital Beds": 795,
+  "Available ICU Beds": 73,
+  "Adult Population": 1114075,
+  "Positive": 193,
+  "Negative": 7825,
+  "Total Test Results": 8018,
+  "Date Modified": "2020-03-30 22:00:00",
+  "Hospitalized Infections": 13.510000000000002,
+  "Hospitalized Infections vs Hospital Beds": "1.70%",
+  "Hospitalized Infections vs ICU Beds": "18.51%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bba"
+  },
+  "State": "IA",
+  "Total Hospital Beds": 9309,
+  "Total ICU Beds": 622,
+  "Available Hospital Beds": 4100,
+  "Available ICU Beds": 293,
+  "Adult Population": 2389398,
+  "Positive": 424,
+  "Negative": 6162,
+  "Total Test Results": 6586,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 29.680000000000003,
+  "Hospitalized Infections vs Hospital Beds": "0.72%",
+  "Hospitalized Infections vs ICU Beds": "10.13%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bbb"
+  },
+  "State": "ID",
+  "Total Hospital Beds": 3267,
+  "Total ICU Beds": 333,
+  "Available Hospital Beds": 1607,
+  "Available ICU Beds": 155,
+  "Adult Population": 1222764,
+  "Positive": 415,
+  "Negative": 5567,
+  "Total Test Results": 5982,
+  "Date Modified": "2020-03-30 23:00:00",
+  "Hospitalized Infections": 29.050000000000004,
+  "Hospitalized Infections vs Hospital Beds": "1.81%",
+  "Hospitalized Infections vs ICU Beds": "18.74%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bbc"
+  },
+  "State": "IL",
+  "Total Hospital Beds": 30006,
+  "Total ICU Beds": 3426,
+  "Available Hospital Beds": 12580,
+  "Available ICU Beds": 1410,
+  "Adult Population": 9895529,
+  "Positive": 5057,
+  "Negative": 25389,
+  "Total Test Results": 30446,
+  "Date Modified": "2020-03-29 04:00:00",
+  "Hospitalized Infections": 353.99,
+  "Hospitalized Infections vs Hospital Beds": "2.81%",
+  "Hospitalized Infections vs ICU Beds": "25.11%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bbd"
+  },
+  "State": "IN",
+  "Total Hospital Beds": 17433,
+  "Total ICU Beds": 2358,
+  "Available Hospital Beds": 7685,
+  "Available ICU Beds": 974,
+  "Adult Population": 5036563,
+  "Positive": 1786,
+  "Negative": 9872,
+  "Total Test Results": 11658,
+  "Date Modified": "2020-03-29 16:59:00",
+  "Hospitalized Infections": 125.02000000000001,
+  "Hospitalized Infections vs Hospital Beds": "1.63%",
+  "Hospitalized Infections vs ICU Beds": "12.84%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bbe"
+  },
+  "State": "KS",
+  "Total Hospital Beds": 9120,
+  "Total ICU Beds": 878,
+  "Available Hospital Beds": 4310,
+  "Available ICU Beds": 391,
+  "Adult Population": 2185546,
+  "Positive": 368,
+  "Negative": 4554,
+  "Total Test Results": 4922,
+  "Date Modified": "2020-03-30 15:00:00",
+  "Hospitalized Infections": 25.76,
+  "Hospitalized Infections vs Hospital Beds": "0.60%",
+  "Hospitalized Infections vs ICU Beds": "6.59%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bbf"
+  },
+  "State": "KY",
+  "Total Hospital Beds": 13150,
+  "Total ICU Beds": 1447,
+  "Available Hospital Beds": 5291,
+  "Available ICU Beds": 504,
+  "Adult Population": 3411784,
+  "Positive": 480,
+  "Negative": 6330,
+  "Total Test Results": 6810,
+  "Date Modified": "2020-03-30 21:00:00",
+  "Hospitalized Infections": 33.6,
+  "Hospitalized Infections vs Hospital Beds": "0.64%",
+  "Hospitalized Infections vs ICU Beds": "6.67%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc0"
+  },
+  "State": "LA",
+  "Total Hospital Beds": 13881,
+  "Total ICU Beds": 1518,
+  "Available Hospital Beds": 5990,
+  "Available ICU Beds": 632,
+  "Adult Population": 3550728,
+  "Positive": 4025,
+  "Negative": 30008,
+  "Total Test Results": 34033,
+  "Date Modified": "2020-03-30 17:00:00",
+  "Hospitalized Infections": 281.75,
+  "Hospitalized Infections vs Hospital Beds": "4.70%",
+  "Hospitalized Infections vs ICU Beds": "44.58%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc1"
+  },
+  "State": "MA",
+  "Total Hospital Beds": 13759,
+  "Total ICU Beds": 1555,
+  "Available Hospital Beds": 3603,
+  "Available ICU Beds": 571,
+  "Adult Population": 5405787,
+  "Positive": 5752,
+  "Negative": 37041,
+  "Total Test Results": 42793,
+  "Date Modified": "2020-03-30 20:15:00",
+  "Hospitalized Infections": 402.64000000000004,
+  "Hospitalized Infections vs Hospital Beds": "11.18%",
+  "Hospitalized Infections vs ICU Beds": "70.51%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc2"
+  },
+  "State": "MD",
+  "Total Hospital Beds": 11249,
+  "Total ICU Beds": 1227,
+  "Available Hospital Beds": 3296,
+  "Available ICU Beds": 422,
+  "Adult Population": 4648466,
+  "Positive": 1413,
+  "Negative": 13316,
+  "Total Test Results": 14729,
+  "Date Modified": "2020-03-30 14:00:00",
+  "Hospitalized Infections": 98.91000000000001,
+  "Hospitalized Infections vs Hospital Beds": "3.00%",
+  "Hospitalized Infections vs ICU Beds": "23.44%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc3"
+  },
+  "State": "ME",
+  "Total Hospital Beds": 3310,
+  "Total ICU Beds": 288,
+  "Available Hospital Beds": 980,
+  "Available ICU Beds": 107,
+  "Adult Population": 1073331,
+  "Positive": 275,
+  "Negative": 3394,
+  "Total Test Results": 3669,
+  "Date Modified": "2020-03-30 16:00:00",
+  "Hospitalized Infections": 19.250000000000004,
+  "Hospitalized Infections vs Hospital Beds": "1.96%",
+  "Hospitalized Infections vs ICU Beds": "17.99%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc4"
+  },
+  "State": "MI",
+  "Total Hospital Beds": 24286,
+  "Total ICU Beds": 2749,
+  "Available Hospital Beds": 8855,
+  "Available ICU Beds": 976,
+  "Adult Population": 7717047,
+  "Positive": 6498,
+  "Negative": 11893,
+  "Total Test Results": 18391,
+  "Date Modified": "2020-03-30 15:00:00",
+  "Hospitalized Infections": 454.86000000000007,
+  "Hospitalized Infections vs Hospital Beds": "5.14%",
+  "Hospitalized Infections vs ICU Beds": "46.60%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc5"
+  },
+  "State": "MN",
+  "Total Hospital Beds": 13423,
+  "Total ICU Beds": 1277,
+  "Available Hospital Beds": 4605,
+  "Available ICU Beds": 452,
+  "Adult Population": 4204388,
+  "Positive": 576,
+  "Negative": 18246,
+  "Total Test Results": 18822,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 40.32000000000001,
+  "Hospitalized Infections vs Hospital Beds": "0.88%",
+  "Hospitalized Infections vs ICU Beds": "8.92%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc6"
+  },
+  "State": "MO",
+  "Total Hospital Beds": 17087,
+  "Total ICU Beds": 2092,
+  "Available Hospital Beds": 6884,
+  "Available ICU Beds": 874,
+  "Adult Population": 4685891,
+  "Positive": 1031,
+  "Negative": 14614,
+  "Total Test Results": 15645,
+  "Date Modified": "2020-03-30 19:00:00",
+  "Hospitalized Infections": 72.17,
+  "Hospitalized Infections vs Hospital Beds": "1.05%",
+  "Hospitalized Infections vs ICU Beds": "8.26%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc7"
+  },
+  "State": "MS",
+  "Total Hospital Beds": 11877,
+  "Total ICU Beds": 931,
+  "Available Hospital Beds": 5255,
+  "Available ICU Beds": 392,
+  "Adult Population": 2259919,
+  "Positive": 847,
+  "Negative": 2989,
+  "Total Test Results": 3836,
+  "Date Modified": "2020-03-29 23:00:00",
+  "Hospitalized Infections": 59.290000000000006,
+  "Hospitalized Infections vs Hospital Beds": "1.13%",
+  "Hospitalized Infections vs ICU Beds": "15.13%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc8"
+  },
+  "State": "MT",
+  "Total Hospital Beds": 3667,
+  "Total ICU Beds": 248,
+  "Available Hospital Beds": 1541,
+  "Available ICU Beds": 113,
+  "Adult Population": 803704,
+  "Positive": 177,
+  "Negative": 4234,
+  "Total Test Results": 4411,
+  "Date Modified": "2020-03-30 22:30:00",
+  "Hospitalized Infections": 12.39,
+  "Hospitalized Infections vs Hospital Beds": "0.80%",
+  "Hospitalized Infections vs ICU Beds": "10.96%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bc9"
+  },
+  "State": "NC",
+  "Total Hospital Beds": 21065,
+  "Total ICU Beds": 3168,
+  "Available Hospital Beds": 6288,
+  "Available ICU Beds": 911,
+  "Adult Population": 7762882,
+  "Positive": 1307,
+  "Negative": 19557,
+  "Total Test Results": 20864,
+  "Date Modified": "2020-03-30 15:00:00",
+  "Hospitalized Infections": 91.49000000000001,
+  "Hospitalized Infections vs Hospital Beds": "1.45%",
+  "Hospitalized Infections vs ICU Beds": "10.04%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bca"
+  },
+  "State": "ND",
+  "Total Hospital Beds": 3371,
+  "Total ICU Beds": 278,
+  "Available Hospital Beds": 1420,
+  "Available ICU Beds": 95,
+  "Adult Population": 575105,
+  "Positive": 109,
+  "Negative": 3800,
+  "Total Test Results": 3909,
+  "Date Modified": "2020-03-30 22:00:00",
+  "Hospitalized Infections": 7.630000000000001,
+  "Hospitalized Infections vs Hospital Beds": "0.54%",
+  "Hospitalized Infections vs ICU Beds": "8.03%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bcb"
+  },
+  "State": "NE",
+  "Total Hospital Beds": 5872,
+  "Total ICU Beds": 548,
+  "Available Hospital Beds": 2630,
+  "Available ICU Beds": 202,
+  "Adult Population": 1424102,
+  "Positive": 153,
+  "Negative": 2724,
+  "Total Test Results": 2877,
+  "Date Modified": "2020-03-30 22:30:00",
+  "Hospitalized Infections": 10.71,
+  "Hospitalized Infections vs Hospital Beds": "0.41%",
+  "Hospitalized Infections vs ICU Beds": "5.30%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bcc"
+  },
+  "State": "NH",
+  "Total Hospital Beds": 2598,
+  "Total ICU Beds": 252,
+  "Available Hospital Beds": 939,
+  "Available ICU Beds": 110,
+  "Adult Population": 1067991,
+  "Positive": 314,
+  "Negative": 5413,
+  "Total Test Results": 5727,
+  "Date Modified": "2020-03-30 13:00:00",
+  "Hospitalized Infections": 21.98,
+  "Hospitalized Infections vs Hospital Beds": "2.34%",
+  "Hospitalized Infections vs ICU Beds": "19.98%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bcd"
+  },
+  "State": "NJ",
+  "Total Hospital Beds": 20450,
+  "Total ICU Beds": 1891,
+  "Available Hospital Beds": 6688,
+  "Available ICU Beds": 846,
+  "Adult Population": 6960340,
+  "Positive": 16636,
+  "Negative": 25224,
+  "Total Test Results": 41860,
+  "Date Modified": "2020-03-30 18:00:00",
+  "Hospitalized Infections": 1164.5200000000002,
+  "Hospitalized Infections vs Hospital Beds": "17.41%",
+  "Hospitalized Infections vs ICU Beds": "137.65%",
+  "Hospitalized Infections vs Adult Population": "0.02%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bce"
+  },
+  "State": "NM",
+  "Total Hospital Beds": 3460,
+  "Total ICU Beds": 460,
+  "Available Hospital Beds": 1368,
+  "Available ICU Beds": 188,
+  "Adult Population": 1587101,
+  "Positive": 281,
+  "Negative": 12246,
+  "Total Test Results": 12527,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 19.67,
+  "Hospitalized Infections vs Hospital Beds": "1.44%",
+  "Hospitalized Infections vs ICU Beds": "10.46%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bcf"
+  },
+  "State": "NV",
+  "Total Hospital Beds": 5610,
+  "Total ICU Beds": 1118,
+  "Available Hospital Beds": 1548,
+  "Available ICU Beds": 248,
+  "Adult Population": 2217723,
+  "Positive": 1008,
+  "Negative": 10207,
+  "Total Test Results": 11215,
+  "Date Modified": "2020-03-30 16:00:00",
+  "Hospitalized Infections": 70.56,
+  "Hospitalized Infections vs Hospital Beds": "4.56%",
+  "Hospitalized Infections vs ICU Beds": "28.45%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd0"
+  },
+  "State": "NY",
+  "Total Hospital Beds": 51713,
+  "Total ICU Beds": 4420,
+  "Available Hospital Beds": 11549,
+  "Available ICU Beds": 1670,
+  "Adult Population": 15594924,
+  "Positive": 66497,
+  "Negative": 119971,
+  "Total Test Results": 186468,
+  "Date Modified": "2020-03-29 13:16:00",
+  "Hospitalized Infections": 4654.790000000001,
+  "Hospitalized Infections vs Hospital Beds": "40.30%",
+  "Hospitalized Infections vs ICU Beds": "278.73%",
+  "Hospitalized Infections vs Adult Population": "0.03%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd1"
+  },
+  "State": "OH",
+  "Total Hospital Beds": 28127,
+  "Total ICU Beds": 3622,
+  "Available Hospital Beds": 11419,
+  "Available ICU Beds": 1297,
+  "Adult Population": 8982588,
+  "Positive": 1933,
+  "Negative": 25342,
+  "Total Test Results": 27275,
+  "Date Modified": "2020-03-30 18:00:00",
+  "Hospitalized Infections": 135.31,
+  "Hospitalized Infections vs Hospital Beds": "1.18%",
+  "Hospitalized Infections vs ICU Beds": "10.43%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd2"
+  },
+  "State": "OK",
+  "Total Hospital Beds": 10781,
+  "Total ICU Beds": 1164,
+  "Available Hospital Beds": 4786,
+  "Available ICU Beds": 427,
+  "Adult Population": 2939976,
+  "Positive": 481,
+  "Negative": 1207,
+  "Total Test Results": 1688,
+  "Date Modified": "2020-03-30 12:00:00",
+  "Hospitalized Infections": 33.67,
+  "Hospitalized Infections vs Hospital Beds": "0.70%",
+  "Hospitalized Infections vs ICU Beds": "7.89%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd3"
+  },
+  "State": "OR",
+  "Total Hospital Beds": 6789,
+  "Total ICU Beds": 837,
+  "Available Hospital Beds": 2483,
+  "Available ICU Beds": 336,
+  "Adult Population": 3160871,
+  "Positive": 606,
+  "Negative": 12277,
+  "Total Test Results": 12883,
+  "Date Modified": "2020-03-30 15:00:00",
+  "Hospitalized Infections": 42.42,
+  "Hospitalized Infections vs Hospital Beds": "1.71%",
+  "Hospitalized Infections vs ICU Beds": "12.62%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd4"
+  },
+  "State": "PA",
+  "Total Hospital Beds": 32817,
+  "Total ICU Beds": 3643,
+  "Available Hospital Beds": 11721,
+  "Available ICU Beds": 1427,
+  "Adult Population": 10101588,
+  "Positive": 4087,
+  "Negative": 33777,
+  "Total Test Results": 37864,
+  "Date Modified": "2020-03-30 16:00:00",
+  "Hospitalized Infections": 286.09000000000003,
+  "Hospitalized Infections vs Hospital Beds": "2.44%",
+  "Hospitalized Infections vs ICU Beds": "20.05%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd5"
+  },
+  "State": "PR",
+  "Total Hospital Beds": 7769,
+  "Total ICU Beds": 739,
+  "Available Hospital Beds": 3355,
+  "Available ICU Beds": 262,
+  "Adult Population": 2737636,
+  "Positive": 174,
+  "Negative": 931,
+  "Total Test Results": 1105,
+  "Date Modified": "2020-03-30 11:00:00",
+  "Hospitalized Infections": 12.180000000000001,
+  "Hospitalized Infections vs Hospital Beds": "0.36%",
+  "Hospitalized Infections vs ICU Beds": "4.65%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd6"
+  },
+  "State": "RI",
+  "Total Hospital Beds": 2117,
+  "Total ICU Beds": 279,
+  "Available Hospital Beds": 644,
+  "Available ICU Beds": 77,
+  "Adult Population": 845556,
+  "Positive": 408,
+  "Negative": 3187,
+  "Total Test Results": 3595,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 28.560000000000002,
+  "Hospitalized Infections vs Hospital Beds": "4.43%",
+  "Hospitalized Infections vs ICU Beds": "37.09%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd7"
+  },
+  "State": "SC",
+  "Total Hospital Beds": 11457,
+  "Total ICU Beds": 1459,
+  "Available Hospital Beds": 4066,
+  "Available ICU Beds": 469,
+  "Adult Population": 3802489,
+  "Positive": 925,
+  "Negative": 4160,
+  "Total Test Results": 5085,
+  "Date Modified": "2020-03-30 20:00:00",
+  "Hospitalized Infections": 64.75,
+  "Hospitalized Infections vs Hospital Beds": "1.59%",
+  "Hospitalized Infections vs ICU Beds": "13.81%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd8"
+  },
+  "State": "SD",
+  "Total Hospital Beds": 4247,
+  "Total ICU Beds": 150,
+  "Available Hospital Beds": 1663,
+  "Available ICU Beds": 75,
+  "Adult Population": 644483,
+  "Positive": 101,
+  "Negative": 3478,
+  "Total Test Results": 3579,
+  "Date Modified": "2020-03-30 16:30:00",
+  "Hospitalized Infections": 7.07,
+  "Hospitalized Infections vs Hospital Beds": "0.43%",
+  "Hospitalized Infections vs ICU Beds": "9.43%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bd9"
+  },
+  "State": "TN",
+  "Total Hospital Beds": 18401,
+  "Total ICU Beds": 2309,
+  "Available Hospital Beds": 6723,
+  "Available ICU Beds": 603,
+  "Adult Population": 5099734,
+  "Positive": 1834,
+  "Negative": 21470,
+  "Total Test Results": 23304,
+  "Date Modified": "2020-03-30 19:00:00",
+  "Hospitalized Infections": 128.38000000000002,
+  "Hospitalized Infections vs Hospital Beds": "1.91%",
+  "Hospitalized Infections vs ICU Beds": "21.29%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bda"
+  },
+  "State": "TX",
+  "Total Hospital Beds": 55588,
+  "Total ICU Beds": 7149,
+  "Available Hospital Beds": 21803,
+  "Available ICU Beds": 2573,
+  "Adult Population": 20206495,
+  "Positive": 2877,
+  "Negative": 33003,
+  "Total Test Results": 35880,
+  "Date Modified": "2020-03-30 16:45:00",
+  "Hospitalized Infections": 201.39000000000001,
+  "Hospitalized Infections vs Hospital Beds": "0.92%",
+  "Hospitalized Infections vs ICU Beds": "7.83%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bdb"
+  },
+  "State": "UT",
+  "Total Hospital Beds": 4869,
+  "Total ICU Beds": 687,
+  "Available Hospital Beds": 2116,
+  "Available ICU Beds": 328,
+  "Adult Population": 2082530,
+  "Positive": 806,
+  "Negative": 15197,
+  "Total Test Results": 16003,
+  "Date Modified": "2020-03-30 19:00:00",
+  "Hospitalized Infections": 56.42000000000001,
+  "Hospitalized Infections vs Hospital Beds": "2.67%",
+  "Hospitalized Infections vs ICU Beds": "17.20%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bdc"
+  },
+  "State": "VA",
+  "Total Hospital Beds": 17469,
+  "Total ICU Beds": 2007,
+  "Available Hospital Beds": 5373,
+  "Available ICU Beds": 698,
+  "Adult Population": 6499678,
+  "Positive": 1020,
+  "Negative": 11018,
+  "Total Test Results": 12038,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 71.4,
+  "Hospitalized Infections vs Hospital Beds": "1.33%",
+  "Hospitalized Infections vs ICU Beds": "10.23%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bdd"
+  },
+  "State": "VT",
+  "Total Hospital Beds": 1305,
+  "Total ICU Beds": 94,
+  "Available Hospital Beds": 475,
+  "Available ICU Beds": 52,
+  "Adult Population": 504856,
+  "Positive": 256,
+  "Negative": 3674,
+  "Total Test Results": 3930,
+  "Date Modified": "2020-03-30 17:00:00",
+  "Hospitalized Infections": 17.92,
+  "Hospitalized Infections vs Hospital Beds": "3.77%",
+  "Hospitalized Infections vs ICU Beds": "34.46%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bde"
+  },
+  "State": "WA",
+  "Total Hospital Beds": 11808,
+  "Total ICU Beds": 1493,
+  "Available Hospital Beds": 4123,
+  "Available ICU Beds": 525,
+  "Adult Population": 5554591,
+  "Positive": 4896,
+  "Negative": 60566,
+  "Total Test Results": 65462,
+  "Date Modified": "2020-03-30 04:00:00",
+  "Hospitalized Infections": 342.72,
+  "Hospitalized Infections vs Hospital Beds": "8.31%",
+  "Hospitalized Infections vs ICU Beds": "65.28%",
+  "Hospitalized Infections vs Adult Population": "0.01%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037bdf"
+  },
+  "State": "WI",
+  "Total Hospital Beds": 11669,
+  "Total ICU Beds": 1506,
+  "Available Hospital Beds": 4850,
+  "Available ICU Beds": 676,
+  "Adult Population": 4469267,
+  "Positive": 1221,
+  "Negative": 15856,
+  "Total Test Results": 17077,
+  "Date Modified": "2020-03-30 20:00:00",
+  "Hospitalized Infections": 85.47000000000001,
+  "Hospitalized Infections vs Hospital Beds": "1.76%",
+  "Hospitalized Infections vs ICU Beds": "12.64%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037be0"
+  },
+  "State": "WV",
+  "Total Hospital Beds": 6224,
+  "Total ICU Beds": 643,
+  "Available Hospital Beds": 2466,
+  "Available ICU Beds": 223,
+  "Adult Population": 1459974,
+  "Positive": 145,
+  "Negative": 3682,
+  "Total Test Results": 3827,
+  "Date Modified": "2020-03-30 18:10:00",
+  "Hospitalized Infections": 10.15,
+  "Hospitalized Infections vs Hospital Beds": "0.41%",
+  "Hospitalized Infections vs ICU Beds": "4.55%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+},{
+  "_id": {
+    "$oid": "5ea903a5fd1f12e726037be1"
+  },
+  "State": "WY",
+  "Total Hospital Beds": 1951,
+  "Total ICU Beds": 102,
+  "Available Hospital Beds": 931,
+  "Available ICU Beds": 65,
+  "Adult Population": 444842,
+  "Positive": 95,
+  "Negative": 1840,
+  "Total Test Results": 1935,
+  "Date Modified": "2020-03-31 00:00:00",
+  "Hospitalized Infections": 6.65,
+  "Hospitalized Infections vs Hospital Beds": "0.71%",
+  "Hospitalized Infections vs ICU Beds": "10.23%",
+  "Hospitalized Infections vs Adult Population": "0.00%"
+}]
