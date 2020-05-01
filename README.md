@@ -5,8 +5,8 @@
 
 Dataset 1: Covid-statistics-by-us-states-totals.csv which includes (by U.S. state): 
 
-  1.Positive and negative test results
-  2.Total test results  
+  1. Positive and negative test results
+  2. Total test results  
 
 Dataset 2: Hospital-capacity-by-state-20-population.csv which includes (by U.S. state): 
 
