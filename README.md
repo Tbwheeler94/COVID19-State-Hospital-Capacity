@@ -1,7 +1,7 @@
 # COVID19-State-Hospital-Capacity
 
 ## Extract
-### We used 2 datasets from the [Uncover COVID19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover/version/3) on Kaggle. 
+### We used 2 datasets from the [Uncover COVID19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover/version/3) on Kaggle. Datasets were updated on March 30, 2020.
 
 Dataset 1: Covid-statistics-by-us-states-totals.csv which includes (by U.S. state): 
 
@@ -32,3 +32,11 @@ Dataset 2: Hospital-capacity-by-state-20-population.csv which includes (by U.S. 
 ### Our final database was exported to MongoDB and is named ETL_Output_Data.json.
 
 We chose to export to MongoDB to gain more practice using the database management system. We recognize that a SQL system would be equally capable of handling this output and may actual be better in the long run for handling more complex queries.
+
+## Analysis Insights
+
+### Hospitalized COVID-19 Infections vs Available Hospital Beds as of March 30, 2020:
+NY (40%), NJ (17%), MA (12%), CT (11%), WA (8%)
+
+### Hospitalized COVID-19 Infections vs Available ICU Beds as of March 30, 2020:
+NY (278%), NJ (137%), MA (70%), CT (63%), WA (65%)
